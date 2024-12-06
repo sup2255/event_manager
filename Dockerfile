@@ -1,10 +1,7 @@
 # Use an official lightweight Python image.
-# 3.12-slim variant is chosen for a balance between size and utility.
-FROM python:3.12-slim-bullseye as base
+FROM python:3.12-slim-bullseye AS base
 
 # Set environment variables to configure Python and pip.
-# Prevents Python from buffering stdout and stderr, enables the fault handler, disables pip cache,
-# sets default pip timeout, and suppresses pip version check messages.
 ENV PYTHONUNBUFFERED=1 \
     PYTHONFAULTHANDLER=1 \
     PIP_NO_CACHE_DIR=true \
