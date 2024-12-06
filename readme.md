@@ -65,6 +65,8 @@ Collaboration:
 Emphasized the importance of robust documentation and consistent schema design to facilitate seamless teamwork and communication.
 This assignment deepened my understanding of API development, highlighting the importance of balancing security, usability, and maintainability. It also underscored the need for effective automated testing and enhanced exception handling for better error messages. Overall, it was a valuable hands-on experience in addressing real-world challenges while solidifying foundational skills for future API projects.
 
+![Docker Hub  Image](https://github.com/user-attachments/assets/866e5183-2d59-484d-9476-24a611425621)
+
 
 
 
